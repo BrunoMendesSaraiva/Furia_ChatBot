@@ -1,0 +1,42 @@
+[
+  {
+    "pergunta": "Quem é o atual capitão (IGL) da equipe de CS da FURIA?",
+    "respostas": ["FalleN", "arT", "KSCERATO", "yuurih"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual jogador da FURIA é conhecido por sua consistência e clutchs?",
+    "respostas": ["yuurih", "KSCERATO", "molodoy", "FalleN"],
+    "correta": 1
+  },
+  {
+    "pergunta": "De qual país é o jogador YEKINDAR da FURIA?",
+    "respostas": ["Brasil", "Rússia", "Letônia", "Canadá"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Molodoy é conhecido por jogar qual função dentro do time?",
+    "respostas": ["AWPer", "Entry Fragger", "Support", "Coach"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos jogadores brasileiros existem na formação atual da FURIA?",
+    "respostas": ["3", "4", "5", "2"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual desses jogadores NÃO faz parte da FURIA atualmente?",
+    "respostas": ["KSCERATO", "yuurih", "arT", "molodoy"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Em qual posição a FURIA terminou no IEM Katowice 2024?",
+    "respostas": ["Semifinal", "Quartas de final", "Fase de grupos", "Vice-campeonato"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual jogador da FURIA é famoso pelo estilo de AWP agressivo?",
+    "respostas": ["yuurih", "FalleN", "molodoy", "YEKINDAR"],
+    "correta": 1
+  }
+]

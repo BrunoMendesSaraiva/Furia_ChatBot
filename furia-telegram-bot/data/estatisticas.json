@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "FalleN",
+    "rating": "1.09",
+    "kpr": 0.62,
+    "dpr": 0.59,
+    "kd": "1.05",
+    "kast": "72.2%",
+    "impact": "0.95",
+    "adr": "64.8"
+  },
+  {
+    "nome": "yuurih",
+    "rating": "1.17",
+    "kpr": 0.74,
+    "dpr": 0.64,
+    "kd": "1.16",
+    "kast": "73.3%",
+    "impact": "1.24",
+    "adr": "84.8"
+  },
+  {
+    "nome": "KSCERATO",
+    "rating": "1.19",
+    "kpr": 0.75,
+    "dpr": 0.58,
+    "kd": "1.29",
+    "kast": "75.0%",
+    "impact": "1.13",
+    "adr": "81.1"
+  },
+  {
+    "nome": "YEKINDAR",
+    "rating": "1.12",
+    "kpr": 0.73,
+    "dpr": 0.69,
+    "kd": "1.06",
+    "kast": "69.0%",
+    "impact": "1.20",
+    "adr": "83.0"
+  },
+  {
+    "nome": "molodoy",
+    "rating": "N/A",
+    "kpr": "N/A",
+    "dpr": "N/A",
+    "kd": "N/A",
+    "kast": "N/A",
+    "impact": "N/A",
+    "adr": "N/A"
+  }
+]

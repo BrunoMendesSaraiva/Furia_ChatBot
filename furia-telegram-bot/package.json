@@ -1,0 +1,27 @@
+{
+  "name": "furia-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "scraper": "node scrapers/atualizaEstatisticas.js",
+  "dev": "nodemon index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": "Bruno Mendes Bauso Diniz Saraiva",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "puppeteer": "^24.7.1",
+    "rss-parser": "^3.13.0"
+  }
+
+  
+}
+
+
